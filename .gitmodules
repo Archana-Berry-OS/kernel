@@ -1,0 +1,12 @@
+[submodule "psod"]
+	path = psod
+	url = https://github.com/Archana-Berry-OS/deadscreen.git
+[submodule "register"]
+	path = register
+	url = https://github.com/Archana-Berry-OS/register.git
+[submodule "dmesg"]
+	path = dmesg
+	url = https://github.com/Archana-Berry-OS/dmesg.git
+[submodule "application"]
+	path = application
+	url = https://github.com/Archana-Berry-OS/application.git
